@@ -1,4 +1,4 @@
-﻿<#
+<#
 .SYNOPSIS
   <Overview of script>
 .DESCRIPTION
@@ -18,3 +18,4 @@
 .EXAMPLE
   <Example goes here. Repeat this attribute for more than one example>
 #>
+Write-Host "Hello!"
